@@ -54,6 +54,9 @@ body{
     line-height: 0px;
     margin: 10px 0;
 }
+i{
+    padding: 0px 6px;
+}
 .content{
     color:#fff;
     font-size: 17px;
